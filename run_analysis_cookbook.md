@@ -2,21 +2,18 @@
 Description of "Subject" column
 ===============================
 Subject identificaion number.
----
 
 Description of "Activity" column
 ===============================
 Activities includes WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
----
 
 Description of "Average" column
 ===============================
 The average of the mean and standard deviation of the sensor signals (accelerometer and gyroscope) for each activity and each subject.
----
 
 Description of "Measurement" column
 ===================================
-tBodyAcc-mean()-X => mean time of body acceleration of accelerometer x-axis.
++tBodyAcc-mean()-X => mean time of body acceleration of accelerometer x-axis.
 tBodyAcc-mean()-Y => mean time of body acceleration of accelerometer y-axis.
 tBodyAcc-mean()-Z => mean time of body acceleration of accelerometer z-axis.
 tBodyAcc-std()-X => standard deviation time of body acceleration of accelerometer x-axis.
