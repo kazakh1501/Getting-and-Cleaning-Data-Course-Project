@@ -1,6 +1,6 @@
 Getting-and-Cleaning-Data-Course-Project
 ========================================
-### Function : averageByActivityAndSubject()
+# Function : averageByActivityAndSubject()
 
 ## Description : 
 This function reads in the data collected from the accelerometers from the 
